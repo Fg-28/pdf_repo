@@ -1,0 +1,13 @@
+{
+  "name": "puppeteer-pdf-api",
+  "version": "1.0.0",
+  "description": "Puppeteer server to generate PDFs from HTML",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "puppeteer": "^24.12.0",
+    "express": "^4.19.2"
+  }
+}
